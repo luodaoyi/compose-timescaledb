@@ -13,6 +13,7 @@
 
 ## Environments
 This Compose file contains the following environment variables:
+> You can change `.env` file to change environment variables
 
 * `POSTGRES_USER` the default value is **postgres**
 * `POSTGRES_PASSWORD` the default value is **changeme**

@@ -1,4 +1,4 @@
-# Postgresql & PgAdmin powered by compose
+# TimescaleDB & PgAdmin powered by compose
 
 
 ## Requirements:
